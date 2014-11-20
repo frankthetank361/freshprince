@@ -1,0 +1,13 @@
+html {
+	background-color: purple;
+	font-family: 'Pinyon Script';
+	text-align: center;
+	font-size: 30;
+}
+h1 {
+	color: red;
+}
+ul {
+	margin: 0 auto;
+	color: white;
+}
